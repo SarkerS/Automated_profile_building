@@ -1,0 +1,48 @@
+ul li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+body {
+  font-family: 'Advent Pro';
+  font-size: 18px;
+}
+
+.gfont {
+  font-family: 'Advent Pro';
+  font-size: 18px;
+}
+
+.profilePic {
+    width: 150px;
+    height: auto;
+    margin: auto;
+}
+
+.profileDiv {
+    border: 1px solid black;
+    width: 80%;
+}
+
+.centerBig {
+    margin: auto;
+    width: 80%;
+}
+
+.centerSmall {
+    margin: auto;
+    width: 40%;
+}
+
+.loader {
+    display: block;
+    margin: 30 auto;
+}
